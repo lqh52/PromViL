@@ -1,6 +1,6 @@
 # PromViL
 
-<font size='5'>**Progressive Multi-granular Alignments for Grounded Reasoning in Large Vision-Language Models**</font>
+<font size='5'>**Progressive Multi-granular Alignments for Grounded Reasoning in Large Vision-Language Models (AAAI 2025)**</font>
 
 ## Getting Started
 ### Installation
@@ -40,6 +40,7 @@ python scripts/finetune.py $target_layer
 ```
 
 **2. Model Evaluation**
+
 Download Model Checkpoint: https://drive.google.com/file/d/1Gr6ZkKkP08GpxINWTSbWAoogJGmi39E-/view?usp=sharing
 
 Referring Expression:
